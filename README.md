@@ -8,7 +8,7 @@ Memcached Speed Booster adds all SELECT results to the RAM memory via memcached 
 + All select queries caching automatically
 + 100% compatible with all templates and modules
 + 100% modular without any patches & vQmod (configuration only)
-+ 100% Open Source under the GNU GPL v.3 (One-Time-Purchase)
++ 100% Open Source under the GNU GPL v.3
 
 **REQUIREMENTS**
 
