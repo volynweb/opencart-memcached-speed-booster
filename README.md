@@ -1,5 +1,7 @@
 # Memcached Speed Booster
 
+![Logo] (https://github.com/shaman/opencart-memcached-speed-booster/blob/master/media/banner-693x200.jpg?raw=true)
+
 Extension reduces server load and speed up the issuance of a page.
 Memcached Speed Booster adds all SELECT results to the RAM memory via memcached automatically.
 
